@@ -1,0 +1,6 @@
+CREATE TABLE users(
+	id INTEGER PRIMARY KEY AUTOINCREMENT,
+	name TEXT,
+	email TEXT,
+	username CHAR(255)
+);

@@ -1,6 +1,16 @@
 # Flask Graphene Graphql
 This is an example project for using [GraphQL](https://graphql.org/) with [Flask](http://flask.pocoo.org/) using [Graphene-SQLAlchemy](https://github.com/graphql-python/graphene-sqlalchemy).
 
+**Table of contents**
+- [Installing](#installing)
+- [Setup the database](#setup-the-database)
+- [Run the server](#run-the-server)
+- [Hit the server](#hit-the-server)
+    1. [Add a new user](#1-add-a-new-user)
+    2. [List all users](#2-list-all-users)
+    3. [Find a user by username](#3-find-a-user-by-username)
+    4. [Update a user](#4-update-a-user)
+
 ## Installing
 Use Virtualenv and install the packages.
 
